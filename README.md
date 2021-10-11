@@ -1,4 +1,6 @@
 
+https://s3-us-west-2.amazonaws.com/ocmbktdev/wp-content/uploads/2017/11/30132041/MetroparksHalloween1Candy.jpg
+
 ## **Description:-**
 Context
 What’s the best (or at least the most popular) Halloween candy? That was the question this dataset was collected to answer. Data was collected by creating a website where participants were shown presenting two fun-sized candies and asked to click on the one they would prefer to receive. In total, more than 269 thousand votes were collected from 8,371 different IP addresses.
