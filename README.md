@@ -1,5 +1,5 @@
 
-![https://s3-us-west-2.amazonaws.com/ocmbktdev/wp-content/uploads/2017/11/30132041/MetroparksHalloween1Candy.jpg]
+"https://user-images.githubusercontent.com/2017/11/30132041/MetroparksHalloween1Candy.jpg"
 
 ## **Description:-**
 Context
